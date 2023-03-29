@@ -4,8 +4,9 @@ import {GrLinkedin} from 'react-icons/gr';
 
 export default function Footer(){
     return(
-        <footer>
+        <footer id='contact'>
             <div>&copy;2023 | Temesvári Zoltán</div>
+            <p className='mt-5'>Kapcsolatfelvétel: </p>
             <table className='my-2'>
                 <tbody>
                     <tr className='text-4xl'>

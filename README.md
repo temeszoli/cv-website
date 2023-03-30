@@ -11,7 +11,7 @@ Tervezem továbbá a jest unit tesztjeinek gyakorlására használni, ehhez azon
 03.30.-03.31. Jest Unit tesztek.
 04.01.-04.02. Production build deploy
 
-##Felhasznált technológiák
+## Felhasznált technológiák
 
 - ReactJS (Ebben a projektben react-router használata nélkül)
 - CSS + TailwindCSS

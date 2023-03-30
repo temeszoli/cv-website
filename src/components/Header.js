@@ -1,4 +1,5 @@
 import cvPic from '../assets/cvPic.jpg';
+import CV from '../assets/temesvari_zoltan_cv.pdf'
 
 export default function Header(){
     return(
@@ -11,7 +12,7 @@ export default function Header(){
             <div className="img-container"><img src={cvPic} alt="" /></div>
 
             <button className='btn-left'>
-                Önéletrajz letöltése
+            <a href={CV} download className='btn'>Önéletrajz letöltése</a>
             </button>
             
             <button className='btn-right'>

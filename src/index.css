@@ -187,7 +187,8 @@ footer>table{
   margin: auto;
 }
 
-footer a:hover{
+footer a:hover,
+.uplink:hover{
   color: violet;
   transition: var(--transition);
 }

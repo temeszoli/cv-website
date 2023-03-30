@@ -197,3 +197,89 @@ footer a:hover{
   right: 2em;
   bottom: 1em;
 }
+
+/*Media Querys */
+@media screen and (max-width: 1024px){
+  body{
+    font-size: 20px;
+    background-size: 2000%;
+  }
+
+  header>div>img{
+    width: 300px;
+    height: 300px;
+  }
+
+  header .img-container{
+    padding-top: 220px;
+  }
+
+  button{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 2px 6px;
+    font-size: 22px;
+  }
+
+  .btn-left{
+    left: 1em;
+  }
+  
+  .btn-right{
+    right: 2em;
+  }
+
+  .edu-container{
+    width: 50%;
+  }
+
+  .schoolImg{
+    max-width: 100px;
+  }
+
+  .grid-container{
+    grid-template-columns: 1fr;
+  }
+
+  .jobs-container>ul>li,
+  .portfolio-container>p{
+    font-size: 18px;
+  }
+}
+
+@media screen and (max-width: 600px){
+  header>div>img{
+    width: 250px;
+    height: 250px;
+  }
+
+  header .img-container{
+    padding-top: 250px;
+  }
+
+  .btn-left{
+    left: 4em;
+  }
+  
+  .btn-right{
+    right: 4em;
+  }
+
+  .btn-left, .btn-right{
+    position: absolute;
+    top: 12em;
+    font-size: 17px;
+  }
+
+  .about-container,
+  .edu-container,
+  .grid-container,
+  .jobs-container,
+  .portfolio-container{
+    width: 80%;
+  }
+
+  .uplink{
+    right: 5px;
+  }
+}

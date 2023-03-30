@@ -4,7 +4,7 @@ export default function Education(){
     return(
         <div className="edu-container">
             <h1 className='text-center my-5 text-4xl bg-blue-500 rounded py-2'>Tanulmányok</h1>
-            <ul>
+
                 {education.map( school => (
                 <table key={school.id}>
                     <tbody>
@@ -21,7 +21,7 @@ export default function Education(){
                     </tbody>
                 </table>
                 ))}
-            </ul>
+
         </div>
         
     );

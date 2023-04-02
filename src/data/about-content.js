@@ -1,7 +1,7 @@
 export const aboutText = [
     'Az egyetemen az IT szektor számtalan oldalába nyerhettem betekintést, valamiért mégis amelyik leginkább felkeltette a figyelmemet az volt, amiről a legkevesebbet tanulhattuk, a frontend fejlesztés. A szakmai gyakorlatom alatt az ott töltött idő nagy részében egyedül dolgoztam, de betekintést nyerhettem abba is, hogy egy csapat tagjai hogyan működnek együtt egy nagyobb projekt megvalósításakor. Fontosnak tartom ebből kiindulva, hogy megfelelő legyen a kommunikáció a kollégák között. ',
     'Pályakezdő fejlesztőként a leghasznosabb tulajdonságaim közé tartozik a jó kommunikációs készségem valamint, hogy gyorsan tanulok. Az utóbbi fél évben a következő technológiákban lettem jártas:',
-    'HTML, CSS, Javascript, ReactJS, FirebaseAuth, Git, Postman, TailwindCSS, JSON és Jest unit testing.',
-    'Ezeken túl ismerkedtem még a Node.js, Express és a MongoDB használatával, hogy kicsit jobban átlássam hogy hogyan kapcsolódik a kliens oldal a szerver oldalhoz.',
+    'HTML, CSS, Javascript, ReactJS, FirebaseAuth, Git, Postman, TailwindCSS és JSON.',
+    'Ezeken túl ismerkedtem még a Node.js, Express, MongoDB és Jest használatával, hogy kicsit jobban átlássam hogy hogyan kapcsolódik a kliens oldal a szerver oldalhoz.',
     'Összegzésként tehát annyit mondanék, hogy a jelenlegi tudásszintem és az alapján, hogy mennyit tanulhatok még munka közben, úgy gondolom, hogy hasznos tagja lehetek egy fejlesztő csapatnak és később akár full-stack fejlesztőként és megállhatnám a helyem.'
 ];

@@ -1,5 +1,5 @@
 export const codingSkills = [
-    'HTML', 'CSS', 'Javascript', 'ReactJS', 'FirebaseAuth', 'Git', 'Jest', 'Postman', 'TailwindCSS',
+    'HTML', 'CSS', 'Javascript', 'ReactJS', 'FirebaseAuth', 'Git', 'Postman', 'TailwindCSS',
 ];
 
 export const softSkills = [
@@ -10,7 +10,7 @@ export const softSkills = [
 ];
 
 export const otherSkills = [
-    'Node.js', 'Express', 'MongoDB', 'Bootstrap'
+    'Node.js', 'Express', 'MongoDB', 'Bootstrap', 'Jest',
 ];
 
 export const univSkills = [

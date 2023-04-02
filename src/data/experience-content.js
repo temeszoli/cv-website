@@ -10,7 +10,7 @@ export const softSkills = [
 ];
 
 export const otherSkills = [
-    'Node.js', 'Express', 'MongoDB', 'Bootstrap', 'Jest',
+    'Node.js', 'Express', 'MongoDB', 'Bootstrap',
 ];
 
 export const univSkills = [

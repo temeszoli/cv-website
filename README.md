@@ -1,6 +1,6 @@
 # Önéletrajt/Portfolio weboldal
 
-Ebben a projektben vegyesen használtam "vanilla" css-t és tailwind-et az oldal stílusának formázására. 
+Ebben a projektben vegyesen használtam "vanilla" css-t és tailwind-et az oldal stílusának formázására.
 
 ## Progress
 
@@ -8,6 +8,7 @@ Ebben a projektben vegyesen használtam "vanilla" css-t és tailwind-et az oldal
 - 03.27-03.29.: Az oldal elkészítése egy kijelzőméretre. SwiperJS teszt. (27-28.-án nem használtam még gitet)
 - 03.30. Teljes reszponzivitás megvalósítása.
 - 04.01.-04.02. Production build deploy
+- 04.03. Refactoring + Nem használt fájlok törlése (interjú felkészülés "triggerelte").
 
 ## Felhasznált technológiák
 

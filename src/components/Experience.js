@@ -34,7 +34,7 @@ export default function Experience(){
                 ))}
             </div>
             <div className="grid-item">
-                <h2 className="text-center bg-blue-500 rounded py-1 text-3xl my-5">Beginner of beginners</h2>
+                <h2 className="text-center bg-blue-500 rounded py-1 text-3xl my-5">Beginner</h2>
                 {otherSkills.map(item =>(
                     <table key={item}>
                     <tbody>
@@ -47,7 +47,7 @@ export default function Experience(){
                 ))}
             </div>
             <div className="grid-item">
-                <h2 className="text-center bg-blue-500 rounded py-1 text-3xl my-5">Egyetemi OOP Alapok</h2>
+                <h2 className="text-center bg-blue-500 rounded py-1 text-3xl my-5">Egyetemi tanulmányok</h2>
                 {univSkills.map(item =>(
                     <table key={item}>
                     <tbody>

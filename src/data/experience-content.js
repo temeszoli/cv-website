@@ -14,7 +14,7 @@ export const otherSkills = [
 ];
 
 export const univSkills = [
-    'C#', 'Java', '.Net', 'MSSQL', 'Python',
+    'Labview','C#', 'Java', '.Net', 'MSSQL', 'Python',
 ];
 
 export const languages = [

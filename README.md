@@ -9,6 +9,7 @@ Ebben a projektben vegyesen használtam "vanilla" css-t és tailwind-et az oldal
 - 03.30. Teljes reszponzivitás megvalósítása.
 - 04.01.-04.02. Production build deploy
 - 04.03. Refactoring + Nem használt fájlok törlése (interjú felkészülés "triggerelte").
+- 04.18. Úgy döntöttem, hogy első körben fizetett gyakornoki programokra jelentkezek tapasztalat szerzés céljából és befejezem az egyetemi tanulmányaimat a nyáron. Ezért hát átírtam a teljes weboldalt angol nyelvűre, demonstrálandó a nyelvtudásomat, a letölthető cv továbbra is magyar nyelvű lesz.
 
 ## Felhasznált technológiák
 

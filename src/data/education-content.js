@@ -5,13 +5,13 @@ export const education = [{
     id : 'school01',
     img: pttt,
     schoolName : 'Puskás Tivadar Távközlési technikum (2010-2014)',
-    note : 'Az Érettségi bizonyítványt és ECDL vizsgát szereztem.',
+    note : 'I have got my high school diploma and a European Computer Driving License',
     website: 'http://www.puskas.hu/100/',
 },{
     id:'school02',
     img : pte,
     schoolName: 'Pécsi Tudományegyetem (2016- )',
-    note : '2022 nyarán abszolváltam az egyetem informatikai karán, azóta online kurzusok formájában képzem magam. Államvizsgát még nem tettem. ',
+    note : 'I have absolved at the summer of 2022 and going to take my final exam in June, 2023.',
     website: 'https://mik.pte.hu',
 },
 ]

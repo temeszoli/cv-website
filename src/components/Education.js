@@ -3,7 +3,7 @@ import { education } from '../data/education-content.js';
 export default function Education(){
     return(
         <div className="edu-container">
-            <h1 className='text-center my-5 text-4xl bg-blue-500 rounded py-2'>Tanulmányok</h1>
+            <h1 className='text-center my-5 text-4xl bg-blue-500 rounded py-2'>Education</h1>
 
                 {education.map( school => (
                 <table key={school.id}>

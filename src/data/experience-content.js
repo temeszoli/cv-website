@@ -3,10 +3,10 @@ export const codingSkills = [
 ];
 
 export const softSkills = [
-    'Jó kommunikációs készség',
-    'Jól dolgozom csapatban',
-    'Önálló munkavégzés',
-    'Gyorsan tanulok',
+    'Good communication skills',
+    'Good at teamwork',
+    'Working solo is not a problem either',
+    'Fast and effective learner',
 ];
 
 export const otherSkills = [
@@ -18,23 +18,23 @@ export const univSkills = [
 ];
 
 export const languages = [
-    'Magyar: Anyanyelvi szint',
-    'Angol: Társalgási szint',
+    'Hungarian: Fluent',
+    'English: Intermediate',
 ]
 
 export const jobs = [{
-    job : 'Éttermi dolgozó, Burger King - Budapest (2011-2015)',
-    note : 'A fenti intervallumban többször is dolgoztam Budapest különböző éttermeiben, diákként leginkább csak nyári munkát vállaltam.'
+    job : 'Kitchen Staff, Burger King - Budapest (2011-2015)',
+    note : 'As my first job, I worked at several restaurants of the franchise. My task were preparing the food, washing the dishes and cleaning the guest area.'
 },{
-    job : 'Szervező, BSI Futanet - Budapest (2012-2015)',
-    note : 'Alkalmi munkákat vállaltam a BSI által szervezett SPAR félmaratonokon, mint szervező, szintén a középiskola alatt, diákmunkaként.'
+    job : 'Organizer, BSI Futanet - Budapest (2012-2015)',
+    note : 'I had to set up the stations as a member of a crew. Setting up the stations meant sorting out some food and drink to the runners and at the end of the end, we had to unbuild the station.'
 },{
     job : 'Support Staff, Camp Ozark - USA, Arkansas (2017)',
-    note : 'A konyhai személyzet tagjaként dolgoztam egy nyári táborban, Arkansasban, májustól szeptemberig.'
+    note : 'I worked at the kitchen of the camp, served food to the kids and cleaned the whole kitchen as a member of an international crew.'
 },{
     job : 'Support Staff, Camp Canadensis - USA, Pennsylvania (2019)',
-    note : 'A konyhai személyzet tagjaként dolgoztam egy nyári táborban, Pennsylvaniában, májustól szeptemberig.'
+    note : 'I had to do the same job as in Camp Ozark.'
 },{
-    job : 'Frontend fejlesztő gyakornok, Lanoga Kft. - Pécs (2021)',
-    note : `Az egyetem által előírt kötelező szakmai gyakorlatot végeztem el ennél a cégnél, a feladatom az volt, hogy a South Park rajzfilm weboldalát hozzam létre nulláról, html-t, css-t, javascriptet és bootstrapet használva.`
+    job : 'Frontend developer intern, Lanoga Kft. - Pécs (2021)',
+    note : `I did my mandatory internship at this company. The task what i got was to make a copy of the website of the south park cartoon. I had to use html, css, javascript and bootstrap.`
 }]

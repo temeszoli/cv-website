@@ -1,9 +1,6 @@
 export const aboutText = [
-    'Az IT technologiák 7 éves korom óta részei a mindennapjaimnak, legyen szó az első számítógépem kézhez kapásáról 2002-ben, az általános iskolai évek alatt nyert informatika versenyről vagy épp a mérnökinformatikusként abszolválásról tavaly nyáron.',
-    'Röpke 20 év távlatából tehát egy dologban biztos vagyok, mégpedig, hogy IT területen szeretnék elhelyezkedni a közeljövőben és a mesterévé válni annak, amin épp dolgozom.',
-    'Az egyetemen az IT szektor számtalan oldalába nyerhettem betekintést, valamiért mégis amelyik leginkább felkeltette a figyelmemet az volt, amiről a legkevesebbet tanulhattunk, a front end fejlesztés. A szakmai gyakorlatom alatt az ott töltött idő nagy részében egyedül dolgoztam, de betekintést nyerhettem abba is, hogy egy csapat tagjai hogyan működnek együtt egy nagyobb projekt megvalósításakor. Fontosnak tartom ebből kiindulva, hogy megfelelő legyen a kommunikáció a kollégák között. ',
-    'Pályakezdőként a leghasznosabb tulajdonságaim közé tartozik a jó kommunikációs készségem, valamint, hogy gyorsan tanulok. Az utóbbi fél évben a következő technológiákban lettem jártas:',
-    'HTML, CSS, Javascript, ReactJS, FirebaseAuth, Git, Postman és TailwindCSS.',
-    'Ezeken túl ismerkedtem még a Node.js, Express és MongoDB használatával, hogy kicsit jobban átlássam, hogy hogyan kapcsolódik a kliens oldal a szerver oldalhoz.',
-    'Végezetül annyit mondanék, hogy a jelenlegi tudásszintem és az alapján, hogy mennyit tanulhatok még munka közben, úgy gondolom, hogy akárhol is sikerül majd elhelyezkednem, hasznos tagja lehetek majd a csapatomnak.'
+    'My Name is Zoltan Temesvari and I made this website to practice front end development and in hope of landing a paid internship position.',
+    'I will take the final exam at the university, until then, I would like to work somewhere to earn experience.',
+    'The fields what i would be interested to work in are front end development and plc programming.',
+    'If you have an opportunity for me pls contact me via email or at my linkedIn profile by pressing the Contact Me button on the right.'
 ];

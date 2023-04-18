@@ -1,5 +1,5 @@
 import cvPic from '../assets/cvPic.jpg';
-import CV from '../assets/temesvari_zoltan_cv.pdf'
+import CV from '../assets/temesvari_zoltan_interncv.pdf'
 
 export default function Header(){
     return(
